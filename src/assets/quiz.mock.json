@@ -1,0 +1,31 @@
+{
+    "quizs": [
+        {
+            "id": 1,
+            "title": "Titre du quiz",
+            "themes": ["Personnalité", "Mangas"],
+            "author": "Quentin",
+            "content": [
+                {
+                    "questions": "Qui est le plus beau ?",
+                    "TrueFalse": false,
+                    "proposition": ["Brice", "Romain", "Quentin", "Lucas"],
+                    "answer": 3
+                },
+                {
+                    "questions": "Qui font partie des mugiwaras ?",
+                    "TrueFalse": false,
+                    "proposition": ["Nami", "Enel", "Shanks", "Zoro"],
+                    "answer": [1, 4]
+                },
+                {
+                    "questions": "Nami est l'archéologue de l'équipage au chapeau de paille.",
+                    "TrueFalse": true,
+                    "answer": false
+                }
+                
+            ],
+            "created_at": 0
+        }
+    ]
+}
